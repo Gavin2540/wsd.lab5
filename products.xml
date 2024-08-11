@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product id="P001">
+        <Name>Gaming Laptop</Name>
+        <Category>Electronics</Category>
+        <Price>1500</Price>
+        <Stock>25</Stock>
+    </Product>
+    <Product id="P002">
+        <Name>Wireless Mouse</Name>
+        <Category>Accessories</Category>
+        <Price>20</Price>
+        <Stock>150</Stock>
+    </Product>
+    <Product id="P003">
+        <Name>Keyboard</Name>
+        <Category>Accessories</Category>
+        <Price>30</Price>
+        <Stock>80</Stock>
+    </Product>
+</Products>
